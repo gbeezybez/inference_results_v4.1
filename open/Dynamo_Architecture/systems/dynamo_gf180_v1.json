@@ -1,0 +1,10 @@
+{
+  "system_name": "dynamo_gf180_v1",
+  "organization": "Dynamo_Architecture",
+  "division": "open",
+  "status": "research",
+  "number_of_nodes": 1,
+  "accelerator_model_name": "Dynamo VMM Ensemble",
+  "hw_notes": "GF180 180nm process. Zero-ADC Threshold-Delay signaling. 4.7 fJ/MAC core energy.",
+  "sw_notes": "Physics-aware Digital Twin with HAT-tuned weights."
+}
